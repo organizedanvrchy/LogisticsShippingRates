@@ -1,21 +1,20 @@
-# LogisticsShippingRates
-
+# Logistics Shipping Rates
 Please consider the below factors while contributing 
 
-Code Style:<br>
+### Code Style:
 Maintain a consistent code style for readability. 
 
-Documentation:<br>
+### Documentation:
 Ensure well-documented code for effective collaboration. 
 
-Testing:<br>
+### Testing:
 Thoroughly test your changes before submitting a pull request. 
 
-Issue Tracker:<br>
+### Issue Tracker:
 Check the Issue Tracker for tasks. 
 
-Code Review:<br>
+### Code Review:
 All contributions undergo a code review process. 
 
-Licensing:<br>
+### Licensing:
 Contributions are licensed.
